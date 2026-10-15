@@ -1,0 +1,4 @@
+apple: [2, 3, 4, 6]
+banana: [3, 5]
+mango: [2, 4, 6]
+orange: [5, 6]
